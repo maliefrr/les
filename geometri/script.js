@@ -81,7 +81,3 @@ luasLingkaran.addEventListener("click", function (){
     const hasil = 3.14 * r * r
     alert("Luas Lingkaran = "+hasil)
 })
-
-
-
-
