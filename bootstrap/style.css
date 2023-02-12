@@ -1,0 +1,25 @@
+.tombol {
+    padding-x: 2px;
+    padding-y: 1px;
+    border: 1px solid #a724d4;
+}
+.tombol:hover {
+    background-color: #a724d4;
+    color: white;
+}
+
+.tombol-dark {
+    padding-x: 2px;
+    padding-y: 1px;
+    border: 1px solid #f852e1;
+    color: white;
+}
+
+.tombol-dark:hover {
+    background-color: #f852e1;
+    color: black;
+}
+
+.jarak {
+    margin-left: 10px;
+}
